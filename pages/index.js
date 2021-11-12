@@ -14,10 +14,6 @@ export default function Home() {
         </h1>
 
         <p className="description">
-          There is nothing here. But maybe one day 😎
-        </p>
-
-        <p className="description">
           You can find me on <a href="https://github.com/Shyndard">Github 🐙</a> and <a href="https://twitter.com/Shyndard">Twitter 🐦</a>
         </p>
 
@@ -43,11 +39,6 @@ export default function Home() {
         }
 
         a {
-          color: inherit;
-          text-decoration: none;
-        }
-
-        .title a {
           color: #0070f3;
           text-decoration: none;
         }
