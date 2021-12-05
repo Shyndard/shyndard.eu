@@ -5,7 +5,10 @@ export default function Home() {
     <div className="container">
       <Head>
         <title>Shyndard.eu</title>
-        <link rel="icon" href="/favicon.ico" />
+        <meta name="description" content="Shyndard.eu informations website" />
+        <meta name="keywords" content="Shyndard, Information, Shyndard.eu, Github, Twitter"/>
+        <meta name="author" content="Shyndard"/>
+        <link rel="icon" href="/favicon.ico" />s
       </Head>
 
       <main>
